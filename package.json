@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Pastukhovalydia/Node.js.git"
+  },
+  "author": "Pastukhova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pastukhovalydia/Node.js/issues"
+  },
+  "homepage": "https://github.com/Pastukhovalydia/Node.js#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1"
+  }
+}
